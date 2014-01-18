@@ -15,14 +15,19 @@ Run the code example using SBT
 
 for test:
 $ export runMode=test
+
 $ sbt run
 
 for dev:
+
 $ export runMode=dev
+
 $ sbt run
 
 for prod:
+
 $ export runMode=prod
+
 $ sbt run
 
 To edit the project in eclipse you can generate the required eclipse project files like this:
