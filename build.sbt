@@ -1,6 +1,6 @@
 name := "slickdemoformultipledatabases"
 
-scalaVersion := "2.10.2"
+scalaVersion := "2.10.4"
 
 organization := "Knoldus"
 
